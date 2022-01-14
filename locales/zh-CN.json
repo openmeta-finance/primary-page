@@ -83,7 +83,10 @@
   "checkHash": "查看交易哈希",
   "probability": "概率",
   "chooseAmount": "選擇質押數量",
+  "extractAmount": "選擇提取數量",
   "checkAll": "選擇全部NFT",
   "nftComposition": "全部NFT組成",
-  "totalEfficiency": "總挖礦效率"
+  "totalEfficiency": "總挖礦效率",
+  "noMessage": "暫無可用的NFT",
+  "aboutUs": "關於我們"
 }

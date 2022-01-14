@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>list</title>
+    <g id="导航" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1322.000000, -36.000000)" id="编组">
+            <g id="编组-22" transform="translate(1228.000000, 24.000000)">
+                <g id="list" transform="translate(102.000000, 20.000000) rotate(-180.000000) translate(-102.000000, -20.000000) translate(94.000000, 12.000000)">
+                    <rect id="矩形" x="0" y="0" width="16" height="16"></rect>
+                    <polyline id="路径-5" stroke="#6F7D95" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="3.21185658 10.3079889 8.25399521 5.74590323 13.3005908 10.3079889"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
