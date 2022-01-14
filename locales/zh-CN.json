@@ -88,5 +88,7 @@
   "nftComposition": "全部NFT組成",
   "totalEfficiency": "總挖礦效率",
   "noMessage": "暫無可用的NFT",
-  "aboutUs": "關於我們"
+  "aboutUs": "關於我們",
+  "myDayReward": "我的日獎勵:",
+  "myRewardTips": "我的日獎勵=單位日獎勵*我的挖礦效率"
 }

@@ -88,5 +88,7 @@
   "nftComposition": "All NFT composition",
   "totalEfficiency": "Total mining efficiency",
   "noMessage": "No NFT available yet",
-  "aboutUs": "About us"
+  "aboutUs": "About us",
+  "myDayReward": "My daily rewards:",
+  "myRewardTips": "My daily rewards=Predicted Daily reward * My mining efficiency"
 }
