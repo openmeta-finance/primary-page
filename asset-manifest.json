@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.e3de5c95.chunk.js",
+    "main.js": "/static/js/main.408cf423.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.79c30f81.js",
     "static/css/2.525ebce7.chunk.css": "/static/css/2.525ebce7.chunk.css",
-    "static/js/2.d061340e.chunk.js": "/static/js/2.d061340e.chunk.js",
+    "static/js/2.e5be1d8c.chunk.js": "/static/js/2.e5be1d8c.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.d061340e.chunk.js.LICENSE.txt": "/static/js/2.d061340e.chunk.js.LICENSE.txt",
+    "static/js/2.e5be1d8c.chunk.js.LICENSE.txt": "/static/js/2.e5be1d8c.chunk.js.LICENSE.txt",
+    "static/media/FAQ.ff185e88.png": "/static/media/FAQ.ff185e88.png",
     "static/media/N.9d3f3dd2.svg": "/static/media/N.9d3f3dd2.svg",
     "static/media/R.b5d27436.svg": "/static/media/R.b5d27436.svg",
     "static/media/SR.7ff8e913.svg": "/static/media/SR.7ff8e913.svg",
@@ -21,11 +22,13 @@
     "static/media/bsc.9883ba35.svg": "/static/media/bsc.9883ba35.svg",
     "static/media/center.22096aa0.svg": "/static/media/center.22096aa0.svg",
     "static/media/check.08e8c1f5.svg": "/static/media/check.08e8c1f5.svg",
+    "static/media/check.3b067996.svg": "/static/media/check.3b067996.svg",
     "static/media/chinese.9d170558.svg": "/static/media/chinese.9d170558.svg",
     "static/media/close.5a92d3dd.svg": "/static/media/close.5a92d3dd.svg",
     "static/media/email-hover.570ab4f4.svg": "/static/media/email-hover.570ab4f4.svg",
     "static/media/email.a77cc0a9.svg": "/static/media/email.a77cc0a9.svg",
     "static/media/english.061c06ce.svg": "/static/media/english.061c06ce.svg",
+    "static/media/expand.fafb5b71.svg": "/static/media/expand.fafb5b71.svg",
     "static/media/fail.305a368b.svg": "/static/media/fail.305a368b.svg",
     "static/media/farm-banner-h5.99565715.png": "/static/media/farm-banner-h5.99565715.png",
     "static/media/farm-banner.fc8cc311.png": "/static/media/farm-banner.fc8cc311.png",
@@ -35,6 +38,8 @@
     "static/media/logo.29604fd0.png": "/static/media/logo.29604fd0.png",
     "static/media/mdex.086f5a77.mp4": "/static/media/mdex.086f5a77.mp4",
     "static/media/minus.4c6a2fcf.svg": "/static/media/minus.4c6a2fcf.svg",
+    "static/media/next.3290439b.svg": "/static/media/next.3290439b.svg",
+    "static/media/over.88d98daa.svg": "/static/media/over.88d98daa.svg",
     "static/media/p2-bg1.cd8e0739.png": "/static/media/p2-bg1.cd8e0739.png",
     "static/media/p2-bg2.2be326d7.png": "/static/media/p2-bg2.2be326d7.png",
     "static/media/p2-bg3.35ab62ea.png": "/static/media/p2-bg3.35ab62ea.png",
@@ -49,22 +54,25 @@
     "static/media/portrait2.19ce730b.png": "/static/media/portrait2.19ce730b.png",
     "static/media/portrait3.14ad4592.png": "/static/media/portrait3.14ad4592.png",
     "static/media/portrait4.b7b09aae.png": "/static/media/portrait4.b7b09aae.png",
+    "static/media/prev.1fdfbc98.svg": "/static/media/prev.1fdfbc98.svg",
     "static/media/question.d057692c.svg": "/static/media/question.d057692c.svg",
     "static/media/role4-mini.c9850396.png": "/static/media/role4-mini.c9850396.png",
     "static/media/search.b7921074.svg": "/static/media/search.b7921074.svg",
     "static/media/share.c808a379.svg": "/static/media/share.c808a379.svg",
     "static/media/success.35681556.svg": "/static/media/success.35681556.svg",
+    "static/media/time.0f8d1370.svg": "/static/media/time.0f8d1370.svg",
     "static/media/type1.d4caf3b9.png": "/static/media/type1.d4caf3b9.png",
     "static/media/type2.99cd741c.png": "/static/media/type2.99cd741c.png",
     "static/media/type3.04988e64.png": "/static/media/type3.04988e64.png",
     "static/media/type4.b81f2c8b.png": "/static/media/type4.b81f2c8b.png",
     "static/media/uncheck.0cb8f0fa.svg": "/static/media/uncheck.0cb8f0fa.svg",
-    "static/media/wallet.0222d34f.svg": "/static/media/wallet.0222d34f.svg"
+    "static/media/wallet.0222d34f.svg": "/static/media/wallet.0222d34f.svg",
+    "static/media/whitelist.7d25495f.svg": "/static/media/whitelist.7d25495f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.79c30f81.js",
     "static/css/2.525ebce7.chunk.css",
-    "static/js/2.d061340e.chunk.js",
-    "static/js/main.e3de5c95.chunk.js"
+    "static/js/2.e5be1d8c.chunk.js",
+    "static/js/main.408cf423.chunk.js"
   ]
 }

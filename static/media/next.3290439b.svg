@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>next</title>
+    <g id="Primary" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1858.000000, -287.000000)" id="编组-14">
+            <g transform="translate(0.000000, 88.000000)">
+                <g id="next" transform="translate(1874.000000, 215.000000) scale(-1, 1) translate(-1874.000000, -215.000000) translate(1858.000000, 199.000000)">
+                    <path d="M16.0000371,0 C7.16338086,0 0,7.16339411 0,16 C0,24.8366059 7.16341797,32 16.0000371,32 C24.836582,32 32,24.8366059 32,16 C32,7.16339411 24.836582,0 16.0000371,0 Z" id="路径" fill-opacity="0.35" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M17.8910242,10.6666667 L23.2243575,15.5491234 L17.8910242,20.5115328 M8,15.6492503 L21.147602,15.6492503" id="路径-6备份-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(15.612179, 15.589100) scale(-1, 1) translate(-15.612179, -15.589100) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

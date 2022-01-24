@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>白名单</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="20" height="20"></rect>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" gradientTransform="translate(0.500000,0.000000),rotate(90.000000),scale(1.000000,2.420008),translate(-0.500000,-0.000000)" id="radialGradient-3">
+            <stop stop-color="#3FB6FD" offset="0%"></stop>
+            <stop stop-color="#4381FE" offset="41.0928431%"></stop>
+            <stop stop-color="#DB74FF" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Primary" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-980.000000, -1407.000000)" id="编组-33">
+            <g transform="translate(360.000000, 578.000000)">
+                <g id="编组-20备份-6" transform="translate(608.000000, 488.000000)">
+                    <g id="编组-19" transform="translate(12.000000, 280.000000)">
+                        <g id="白名单" transform="translate(0.000000, 61.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="蒙版"></g>
+                            <g id="编组-20" mask="url(#mask-2)">
+                                <g transform="translate(1.659643, 1.105618)">
+                                    <path d="M6.92307692,7.57085091 C10.7465867,7.57085091 13.8461538,10.4353178 13.8461538,13.9688168 C13.8461538,17.5023158 0,17.5023158 0,13.9688168 C0,10.4353178 3.09956712,7.57085091 6.92307692,7.57085091 Z M6.89570511,0 C8.98633786,0 10.6811306,1.6947927 10.6811306,3.78542545 C10.6811306,5.8760582 8.98633786,7.57085091 6.89570511,7.57085091 C4.80507236,7.57085091 3.11027965,5.8760582 3.11027965,3.78542545 C3.11027965,1.6947927 4.80507236,0 6.89570511,0 Z" id="椭圆形备份-2" stroke="#566FFE" stroke-width="2" fill="none"></path>
+                                    <circle id="椭圆形" stroke="none" fill="url(#radialGradient-3)" fill-rule="evenodd" cx="12.5711266" cy="13.894382" r="4.61538462"></circle>
+                                    <polyline id="路径-3" stroke="#FFFFFF" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round" points="10.6756493 14.2809798 12.0000257 15.5369376 14.4990546 12.696701"></polyline>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
