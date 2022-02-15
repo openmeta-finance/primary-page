@@ -99,7 +99,7 @@
   "seconds": "秒",
   "sellAmount": "銷售數量",
   "sellPrice": "售價",
-  "inProgress": "Primarys",
+  "inProgress": "Primaries",
   "over": "已結束",
   "hasWhitelist": "您擁有白名單資格",
   "noData": "暫無數據",
@@ -113,5 +113,18 @@
   "question2": "如何参与Primary？",
   "answer2": "Primary分为白名单参与和非白名单参与两种形式，白名单仅针对部分特定用户参与，白名单具体要求请关注项目要求；非白名单项目对所有用户开放。",
   "question3": "如何在Primary申请发布盲盒？",
-  "answer3": "优质项目方在OpenMeta官网首页底部菜单栏找到申请链接，填写项目详细资料，经OpenMeta官方审核，商务沟通达成一致，即可在Primary申请发布盲盒。"
+  "answer3": "优质项目方在OpenMeta官网首页底部菜单栏找到申请链接，填写项目详细资料，经OpenMeta官方审核，商务沟通达成一致，即可在Primary申请发布盲盒。",
+
+  "role5Name": "卧底",
+  "role5Text1": "卧底，堕落部队中的基层士兵，数量最多。",
+  "role5Text2": "",
+  "role6Name": "队长",
+  "role6Text1": "队长，指挥基层士兵实行破坏行动的人物，数量第二多。",
+  "role6Text2": "",
+  "role7Name": "将军",
+  "role7Text1": "将军，在破坏行动中指挥各自部队的人物，数量第二少。",
+  "role7Text2": "",
+  "role8Name": "军师",
+  "role8Text1": "军师，为全体堕落部队制定行动计划的人物，数量最稀少。",
+  "role8Text2": ""
 }

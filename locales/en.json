@@ -99,7 +99,7 @@
   "seconds": "Seconds",
   "sellAmount": "Quantity",
   "sellPrice": "Price",
-  "inProgress": "Primarys",
+  "inProgress": "Primaries",
   "over": "Finished",
   "hasWhitelist": "You are whitelisted",
   "noData": "No data",
@@ -113,5 +113,18 @@
   "question2": "How to participate in Primary?",
   "answer2": "Primary has two forms: whitelist participation and non-whitelist participation. Whitelist participation is only accessible to some users. Please pay attention to the requirements for whitelist requirements; non-whitelist projects are open to all users.",
   "question3": "How to apply for launching mystery boxes in Primary?",
-  "answer3": "Quality project can apply for the release of mystery boxes in Primary. You can fill in your project details in the application link at the bottom of OpenMeta home page,and the OpenMeta team will review your application in time. When the agreementis made, you can then release your mystery boxes in Primary."
+  "answer3": "Quality project can apply for the release of mystery boxes in Primary. You can fill in your project details in the application link at the bottom of OpenMeta home page,and the OpenMeta team will review your application in time. When the agreementis made, you can then release your mystery boxes in Primary.",
+
+  "role5Name": "Fallen Spy",
+  "role5Text1": "Fallen Spy, the regular soldiers in the fallen-elephant army, with the most numbers.",
+  "role5Text2": "",
+  "role6Name": "Fallen Captain",
+  "role6Text1": "Fallen Captain, the people who directs the fallen spy to carry out sabotage operations, with the second most number.",
+  "role6Text2": "",
+  "role7Name": "Fallen General",
+  "role7Text1": "Fallen Generals, the people who command their respective units in sabotage operations, with the second least numbers.",
+  "role7Text2": "",
+  "role8Name": "Fallen Tutor",
+  "role8Text1": "Fallen Tutor, the people who formulates the action plan for the entire corrupted army, is the most rare.",
+  "role8Text2": ""
 }
