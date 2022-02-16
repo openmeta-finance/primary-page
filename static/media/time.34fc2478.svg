@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>TIme备份</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="20" height="20"></rect>
+    </defs>
+    <g id="Primary" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-676.000000, -987.000000)" id="编组-33">
+            <g transform="translate(360.000000, 578.000000)">
+                <g id="编组-20备份-13" transform="translate(304.000000, 86.000000)">
+                    <g id="编组-19" transform="translate(12.000000, 286.000000)">
+                        <g id="TIme备份" transform="translate(0.000000, 37.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="蒙版"></g>
+                            <path d="M10,18 C5.58171875,18 2,14.4182812 2,10 C2,5.58171875 5.58171875,2 10,2 C14.4182812,2 18,5.58171875 18,10 C18,14.4182812 14.4182812,18 10,18 Z" id="路径" stroke="#566FFE" stroke-width="2" mask="url(#mask-2)"></path>
+                            <polyline id="路径-2" stroke="#566FFE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="10 6 10 10.4331603 12.4 12"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
