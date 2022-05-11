@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/static/js/main.6c0e810a.chunk.js",
+    "main.js": "/static/js/main.18612361.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.79c30f81.js",
-    "static/css/2.525ebce7.chunk.css": "/static/css/2.525ebce7.chunk.css",
-    "static/js/2.37404b24.chunk.js": "/static/js/2.37404b24.chunk.js",
+    "static/css/2.f9500b1e.chunk.css": "/static/css/2.f9500b1e.chunk.css",
+    "static/js/2.5830a14b.chunk.js": "/static/js/2.5830a14b.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.37404b24.chunk.js.LICENSE.txt": "/static/js/2.37404b24.chunk.js.LICENSE.txt",
+    "static/js/2.5830a14b.chunk.js.LICENSE.txt": "/static/js/2.5830a14b.chunk.js.LICENSE.txt",
     "static/media/FAQ.ff185e88.png": "/static/media/FAQ.ff185e88.png",
     "static/media/N.9d3f3dd2.svg": "/static/media/N.9d3f3dd2.svg",
     "static/media/R.b5d27436.svg": "/static/media/R.b5d27436.svg",
@@ -28,6 +28,7 @@
     "static/media/email-hover.570ab4f4.svg": "/static/media/email-hover.570ab4f4.svg",
     "static/media/email.a77cc0a9.svg": "/static/media/email.a77cc0a9.svg",
     "static/media/english.061c06ce.svg": "/static/media/english.061c06ce.svg",
+    "static/media/eth.32a462de.svg": "/static/media/eth.32a462de.svg",
     "static/media/expand.fafb5b71.svg": "/static/media/expand.fafb5b71.svg",
     "static/media/fail.305a368b.svg": "/static/media/fail.305a368b.svg",
     "static/media/farm-banner-h5.99565715.png": "/static/media/farm-banner-h5.99565715.png",
@@ -75,8 +76,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.79c30f81.js",
-    "static/css/2.525ebce7.chunk.css",
-    "static/js/2.37404b24.chunk.js",
-    "static/js/main.6c0e810a.chunk.js"
+    "static/css/2.f9500b1e.chunk.css",
+    "static/js/2.5830a14b.chunk.js",
+    "static/js/main.18612361.chunk.js"
   ]
 }
